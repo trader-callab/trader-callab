@@ -182,21 +182,21 @@
 # 📊 GitHub Activities:
 
 <p align="center">
-  <a href="https://github.com/trader-collab">
-    <img src="https://img.shields.io/badge/GitHub-trader--collab-181717?style=for-the-badge&logo=github" alt="GitHub profile" />
+  <a href="https://github.com/trader-callab">
+    <img src="https://img.shields.io/badge/GitHub-trader--callab-181717?style=for-the-badge&logo=github" alt="GitHub profile" />
   </a>
-  <a href="https://github.com/trader-collab?tab=stars">
+  <a href="https://github.com/trader-callab?tab=stars">
     <img src="https://img.shields.io/badge/Stars-View%20Starred%20Repos-0A66C2?style=for-the-badge&logo=github" alt="Starred repositories" />
   </a>
-</div>
+</p>
 <p align="center">
-  <a href="https://github.com/trader-collab?tab=repositories">
+  <a href="https://github.com/trader-callab?tab=repositories">
     <img src="https://img.shields.io/badge/Repositories-Browse%20Projects-2EA44F?style=for-the-badge&logo=github" alt="Repositories" />
   </a>
-  <a href="https://wakatime.com/@trader-collab">
+  <a href="https://wakatime.com/@trader-callab">
     <img src="https://img.shields.io/badge/WakaTime-View%20Coding%20Activity-000000?style=for-the-badge&logo=wakatime" alt="WakaTime profile" />
   </a>
-  <a href="https://github.com/trader-collab?tab=packages">
+  <a href="https://github.com/trader-callab?tab=packages">
     <img src="https://img.shields.io/badge/Packages-GitHub%20Packages-24292F?style=for-the-badge&logo=github" alt="GitHub packages" />
   </a>
 </p>
