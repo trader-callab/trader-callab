@@ -143,7 +143,7 @@
       <br>Binance
     </td>
     <td align="center" width="90">
-      <img src="https://cdn.simpleicons.org/bybit/F7A600" width="45" height="45" alt="Bybit" />
+      <img src="https://www.google.com/s2/favicons?sz=64&domain_url=https://www.bybit.com" width="45" height="45" alt="Bybit" />
       <br>Bybit
     </td>
     <td align="center" width="90">
@@ -155,7 +155,7 @@
       <br>Bitcoin
     </td>
     <td align="center" width="90">
-      <img src="https://cdn.simpleicons.org/coingecko/8DC63F" width="45" height="45" alt="CoinGecko" />
+      <img src="https://www.google.com/s2/favicons?sz=64&domain_url=https://www.coingecko.com" width="45" height="45" alt="CoinGecko" />
       <br>CoinGecko
     </td>
     <td align="center" width="90">
@@ -163,7 +163,7 @@
       <br>CoinMarketCap
     </td>
     <td align="center" width="90">
-      <img src="https://cdn.simpleicons.org/uniswap/FF007A" width="45" height="45" alt="Uniswap" />
+      <img src="https://www.google.com/s2/favicons?sz=64&domain_url=https://uniswap.org" width="45" height="45" alt="Uniswap" />
       <br>Uniswap
     </td>
     <td align="center" width="90">
@@ -171,7 +171,7 @@
       <br>Chainlink
     </td>
     <td align="center" width="90">
-      <img src="https://cdn.simpleicons.org/thegraph/6747ED" width="45" height="45" alt="The Graph" />
+      <img src="https://www.google.com/s2/favicons?sz=64&domain_url=https://thegraph.com" width="45" height="45" alt="The Graph" />
       <br>The Graph
     </td>
   </tr>
