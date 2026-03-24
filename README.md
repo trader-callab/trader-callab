@@ -182,27 +182,28 @@
 # 📊 GitHub Activities:
 
 <p align="center">
-  <a href="https://github.com/japple-sys?tab=repositories">
-    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=trader-collab&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@trader-collab's github-readme-stats"/>
+  <a href="https://github.com/trader-collab">
+    <img src="https://img.shields.io/badge/GitHub-trader--collab-181717?style=for-the-badge&logo=github" alt="GitHub profile" />
   </a>
   <a href="https://github.com/trader-collab?tab=stars">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=trader-collab&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@trader-collab's github-readme-streak-stats"/>
-  </a>
-</p>
-
-<!-- activity graph heroku-app start -->
-<p align="center">
-    <a href="https://wakatime.com/@trader-collab">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=trader-collab&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
-    </a>
-</p>
-
-<div align='center' width='100%'>
-  <img width='50%' height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trader-collab&layout=compact&hide_border=true&title_color=00b3ff&text_color=00b4ff&bg_color=0d1117" />
-  <a width='50%' href="https://github.com/trader-collab?tab=achievements">
-    <img src="https://github-profile-trophy.vercel.app/?username=trader-collab&theme=onestar&no-frame=true&column=3&row=2"  height="250px" alt="@trader-collab's trophy stats"/>
+    <img src="https://img.shields.io/badge/Stars-View%20Starred%20Repos-0A66C2?style=for-the-badge&logo=github" alt="Starred repositories" />
   </a>
 </div>
+<p align="center">
+  <a href="https://github.com/trader-collab?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-Browse%20Projects-2EA44F?style=for-the-badge&logo=github" alt="Repositories" />
+  </a>
+  <a href="https://wakatime.com/@trader-collab">
+    <img src="https://img.shields.io/badge/WakaTime-View%20Coding%20Activity-000000?style=for-the-badge&logo=wakatime" alt="WakaTime profile" />
+  </a>
+  <a href="https://github.com/trader-collab?tab=packages">
+    <img src="https://img.shields.io/badge/Packages-GitHub%20Packages-24292F?style=for-the-badge&logo=github" alt="GitHub packages" />
+  </a>
+</p>
+
+<p align="center">
+  Dynamic contribution widgets were removed because several GitHub README stats services do not reliably support organization-style accounts.
+</p>
 
 # 💫 About Me:
 🔭 I build Web Applicatons with Modern UI/UX, Web3 Dapp with real time blockchain event fetching, NFTs, CrossChain and Love to play with different DeFi protocols
